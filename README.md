@@ -54,6 +54,7 @@
 </p>
 <br/>
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+### ✍️ Random Dev Quote
+<img width="100%" height="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="dlouistandio">
+<br/>
+
