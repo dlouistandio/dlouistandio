@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm David Louis Tandio</h1>
-<h3 align="center">A QA Automation Enthusiast from Indonesia</h3>
+<h3 align="center">Love to learn about programming</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlouistandio&label=Profile%20views&color=0e75b6&style=flat" alt="dlouistandio" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://portofolio.dlouistandio.repl.co](https://portofolio.dlouistandio.repl.co)
 
@@ -18,9 +18,9 @@
 
 ## Languages and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,idea,linux,maven,mysql,selenium,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,golang,html,css,git,idea,docker,linux,maven,mysql,postgresql,postman,selenium,vscode)](https://skillicons.dev)
 
-## <a href="https://github.com/dlouistandio"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/dlouistandio"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ dlouistandio's Stats</b></summary>
@@ -33,16 +33,14 @@
 	<br/>
 </p>
 <br/>
-<!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/dlouistandio">
-		<img src="https://activity-graph.herokuapp.com/graph?username=dlouistandio&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="dlouistandio">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=dlouistandio&theme=tokyo-night">
 	</a>
 </p>
 <br/>
--->
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
