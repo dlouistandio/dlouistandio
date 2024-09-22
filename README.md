@@ -17,7 +17,7 @@
 
 ## Languages and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,golang,html,css,git,idea,docker,linux,maven,mysql,postgresql,postman,selenium,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,html,css,php,git,idea,docker,linux,maven,mysql,postgresql,postman,selenium,vscode)](https://skillicons.dev)
 
 ## <a href="https://github.com/dlouistandio"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30"></a> GitHub Stats
 
