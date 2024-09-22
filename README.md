@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Louis Tandio</h1>
-<h3 align="center">Love to learn about programming</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlouistandio&label=Profile%20views&color=0e75b6&style=flat" alt="dlouistandio" /> </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://portofolio.dlouistandio.repl.co](https://portofolio.dlouistandio.repl.co)
 
